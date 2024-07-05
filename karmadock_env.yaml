@@ -227,7 +227,7 @@ dependencies:
       - openpyxl==3.0.10
       - pathtools==0.1.2
       - prefetch-generator==1.0.1
-      - prody==2.2.0
+      - prody
       - promise==2.3
       - prompt-toolkit==3.0.32
       - protobuf==3.19.6
