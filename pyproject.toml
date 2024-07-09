@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "karmadock"
+version = "24.7.9"
+description = "karmadock"
+authors = ["neal1202 <neal1202@gmail.com>"]
+readme = "README.md"
+packages = [
+    { include = "karmadock" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+prody = "2.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
