@@ -11,6 +11,8 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.9"
 prody = "2.4.1"
+loguru = "^0.7.2"
+parmap = "^1.7.0"
 
 
 [build-system]
